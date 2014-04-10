@@ -1,6 +1,6 @@
 {
   "name": "is-url-to-anchor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check if the URL indicates an anchor of the document",
   "main": "dist/is-url-to-anchor.js",
   "scripts": {
