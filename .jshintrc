@@ -1,0 +1,11 @@
+{
+  "camelcase": true,
+  "trailing": true,
+  "indent": 2,
+  "browser": true,
+  "node": true,
+  "esnext": true,
+  "globals": {
+    "opts": true
+  }
+}
